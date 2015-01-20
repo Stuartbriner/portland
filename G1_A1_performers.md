@@ -13,7 +13,7 @@
 
 | Challenges/tasks | 
 | ------------ | 
-| [IDEA 1](arietta_p1.html)       |
+| [IDEA 1](G1_A1_performers_idea_1.html)       |
 | IDEA 2       |
 | IDEA 3       |
 
