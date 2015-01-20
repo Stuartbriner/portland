@@ -12,8 +12,7 @@ permalink: /G1_A1_musicologists.html
 
 [back](G1_A1)
 
-***
-Muzio Clementi, an English composer of Italian birth, settled inLondon in 1774 and established a successful career as a pianistand teacher. His most important compositions are his keyboardworks, which include about 70 solo sonatas as well as sonatinasand variations. During a continental tour as a solo pianist in theearly 1780s, he stayed in Vienna for six months, taking part ina famous piano contest with Mozart. Afterwards, Mozart commentedon his ‘remarkable technique at the keyboard’. In 1798Clementi established a firm in London that not only publishedmusic but also manufactured pianos.Clementi wrote two influential educational works, the Introductionto the Art of Playing on the Piano Forte (London, 1801)and Gradus ad Parnassum (London, 1817–26). This Arietta istaken from a revised edition of the Introduction, published in1826. The first phrase (bb. 1–4), from which the rest of the pieceis derived, is not unlike a folksong in character. All slurs anddynamics are Clementi’s own, except the hairpins in bb. 14–16,which are editorial suggestions only.Source: Eleventh Edition, with Great Improvements, of Clementi’sIntroduction to the Art of Playing on the Piano Forte, Op. 42(London: Clementi & Co., 1826)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5787373.740577368!2d10.672880663502427!3d44.905720083243054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f6196f9928ebb%3A0xb90f770693656e38!2sRome%2C+Italy!5e0!3m2!1sen!2suk!4v1421765070985" width="400" height="300" frameborder="0" style="border:0"></iframe>
 ***
 
 | Challenges/tasks | 
