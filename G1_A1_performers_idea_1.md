@@ -14,7 +14,7 @@ permalink: /G1_A1_performers_idea_1.html
 
 #### Performers - Idea 1
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/G6mb-ij0a5U?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="315" src="//www.youtube.com/embed/G6mb-ij0a5U?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 | Challenges/tasks | 
