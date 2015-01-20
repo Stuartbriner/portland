@@ -11,8 +11,6 @@
 
 #### Performers
 
-
-
 | Challenges/tasks | 
 | ------------ | 
 | [IDEA 1](arietta_p1.html)       |
