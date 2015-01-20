@@ -12,7 +12,14 @@ permalink: /G1_A1_performers.html
 
 ***
 
-[Performers](G1_A1_performers.html)
+#####[Performers](G1_A1_performers.html)
+[Improvisers](G1_A1_improvisers.html)
+[Musicologists](G1_A1_musicologists.html)
+[Technologists](G1_A1_technologists.html)
+[Remixers](G1_A1_remixers.html)
+[Bloggers](G1_A1_bloggers.html)
+[Composers](G1_A1_composers.html)
+[Singers](G1_A1_singers.html)
 
 | Challenges/tasks | 
 | ------------ | 
@@ -22,13 +29,7 @@ permalink: /G1_A1_performers.html
 
 ***
 
-[Improvisers](G1_A1_improvisers.html)
-[Musicologists](G1_A1_musicologists.html)
-[Technologists](G1_A1_technologists.html)
-[Remixers](G1_A1_remixers.html)
-[Bloggers](G1_A1_bloggers.html)
-[Composers](G1_A1_composers.html)
-[Singers](G1_A1_singers.html)
+
 
 [PPP](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8>)
 
