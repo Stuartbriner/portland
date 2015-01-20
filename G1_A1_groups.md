@@ -1,7 +1,10 @@
 ---
+title: Arietta
+layout: page
+permalink: /G1_A1_groups.html
+
 ---
 
-# Arietta
 
 #### Lesson Five from Op.42
 
