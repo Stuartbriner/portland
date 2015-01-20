@@ -10,6 +10,7 @@ permalink: /G1_A1_improvisers.html
 
 #### Muzio Clementi (1752 - 1832)
 
+![Mou icon](https://github.com/Stuartbriner/portland/blob/gh-pages/images/me.jpeg)
 ***
 
 [Performers](G1_A1_performers.html)
