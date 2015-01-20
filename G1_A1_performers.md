@@ -14,7 +14,7 @@
 
 | Challenges/tasks | 
 | ------------ | 
-| IDEA 1       |
+| [IDEA 1](arietta_p1.html)       |
 | IDEA 2       |
 | IDEA 3       |
 
