@@ -7,9 +7,10 @@
 
 #### Muzio Clementi (1752 - 1832)
 
-#### Groups
+***
 
-* [Performers](G1_A1_performers.html)
+#### Performers
+
 
 
 | Challenges/tasks | 
@@ -18,6 +19,7 @@
 | IDEA 2       |
 | IDEA 3       |
 
+***
 
 * [Improvisers](G1_A1_improvisers.html)
 * [Musicologists](G1_A1_musicologists.html)
