@@ -18,7 +18,7 @@ permalink: /G1_A1_challenges.html
 
 | Challenges | 
 | ------------ | 
-| [Clap along](arietta_p1.html)       |
+| [Clap along](G1_A1_clap_challenge.html)       |
 | Sing the music - make up words      |
 | Left hand - spot the G's	       |
 | The end - the final cadence|
