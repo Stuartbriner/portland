@@ -15,7 +15,7 @@ permalink: /post.html
 
 ***
 
-[back](A1_G1_pathway2)
+[back](A1_G1_pathway2.html)
 
 
 [Get Piano Practice Partner](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
