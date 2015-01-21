@@ -18,4 +18,4 @@ permalink: /G1_A1_pathway2.html
 
 
 
-[Get Piano Practice Partner](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
+[GET Piano Practice Partner](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
