@@ -10,11 +10,11 @@ permalink: /G1_A1_challenges.html
 
 #### Muzio Clementi (1752 - 1832)
 
-[back](G1_A1)
+[back](G1_A1_pathway2)
 
 ***
 
-Complete 3 of the following challenges by posting your work to join the Arietta group.
+*Complete 3 of the following challenges by posting your work to join the Arietta group.*
 
 | Challenges | 
 | ------------ | 
