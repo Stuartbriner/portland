@@ -22,7 +22,7 @@ permalink: /G1_A1_challenges.html
 | Sing the music - make up words      |
 | Left hand - spot the G's	       |
 | The end - the final cadence|
-|Left hand quaver patterns - improv over chords or pattern|
+|[Improvise](G1_A1_improv_challenge.html)|
 |Warm ups - Practice technical requirements for C at dynamics of the piece|
 |Find out 3 interesting facts about Clementi - trivia|
 
