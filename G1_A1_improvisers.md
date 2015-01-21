@@ -14,9 +14,9 @@ permalink: /G1_A1_improvisers.html
 [back](G1_A1)
 
 
-| Challenges/tasks | 
+| Challenges | 
 | ------------ | 
-| [IDEA 1](G1_A1_improvisers_idea_1.html)       |
+| [<iframe width="560" height="315" src="//www.youtube.com/embed/EnmcZqJwfRo?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>](G1_A1_improvisers_idea_1.html)       |
 | IDEA 2       |
 | IDEA 3       |
 
