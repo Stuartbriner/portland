@@ -21,6 +21,10 @@ His most important compositions are his keyboardworks, which include about 70 s
 
 ***
 
+![Smaller icon](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/1815clem.jpg "Title here") A Clementi piano made in 1815.
+
+***
+
 
 <iframe width="400" height="315" src="//www.youtube.com/embed/WQBNUHzeCG4?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
