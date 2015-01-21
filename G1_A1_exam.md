@@ -1,7 +1,7 @@
 ---
-title: Arietta - Challenges
+title: Arietta - Exam
 layout: page
-permalink: /G1_A1_challenges.html
+permalink: /G1_A1_exam.html
 
 ---
 
