@@ -1,7 +1,7 @@
 ---
 title: Arietta
 layout: page
-permalink: /G1_A1.html
+permalink: /G1_A1_pathway2.html
 
 ---
 
