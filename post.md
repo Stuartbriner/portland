@@ -8,6 +8,7 @@ permalink: /post.html
 
 
 ##[Photo](post_photo.html)
+##[Audio](post_audio.html)
 ##[Video](post_video.html)
 ##[Library](post_library.html)
 
