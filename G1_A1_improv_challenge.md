@@ -18,7 +18,7 @@ permalink: /G1_A1_improv_challenge.html
 
 ***
 <iframe width="420" height="315" src="//www.youtube.com/embed/BaQA3hczRXc?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-###Jam over bars 8 - 12 to create your own piece of improvised music.
+>###Jam over bars 8 - 12 to create your own piece of improvised music.
 ***
 <iframe width="420" height="315" src="//www.youtube.com/embed/4tvZbsTMKVM?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 ***
