@@ -14,14 +14,18 @@ permalink: /G1_A1_performers_idea_1.html
 
 #### Performers - Idea 1
 
-<iframe width="320" height="315" src="//www.youtube.com/embed/G6mb-ij0a5U?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
-| Challenges/tasks | 
+
+| Challenges | 
 | ------------ | 
-| [IDEA 1](arietta_p1.html)       |
-| IDEA 2       |
-| IDEA 3       |
+| [Clap along](arietta_p1.html)       |
+| Sing the music - make up words      |
+| Left hand - spot the G's	       |
+| The end - the final cadence|
+|Left hand quaver patterns - improv over chords or pattern|
+|Warm ups - Practice technical requirements for C at dynamics of the piece|
+|Find out 3 interesting facts about Clementi - trivia|
 
 ***
 
