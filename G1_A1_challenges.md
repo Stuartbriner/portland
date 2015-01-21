@@ -24,6 +24,7 @@ permalink: /G1_A1_challenges.html
 | The end - the final cadence|
 |[Improvise](G1_A1_improv_challenge.html)|
 |Warm ups - Practice technical requirements for C at dynamics of the piece|
+|Memorise|
 |Find out 3 interesting facts about Clementi - trivia|
 
 
