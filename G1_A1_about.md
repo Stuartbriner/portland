@@ -15,7 +15,7 @@ permalink: /G1_A1_about.html
 ***
 
 
-<iframe width="200" height="315" src="//www.youtube.com/embed/WQBNUHzeCG4?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="315" src="//www.youtube.com/embed/WQBNUHzeCG4?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ***
 
