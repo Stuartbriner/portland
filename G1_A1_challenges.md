@@ -14,6 +14,7 @@ permalink: /G1_A1_challenges.html
 
 ***
 
+Complete 3 of the following challenges by posting your work to join the Arietta group.
 
 | Challenges | 
 | ------------ | 
