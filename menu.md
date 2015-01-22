@@ -14,6 +14,6 @@ permalink: /menu.html
 
 ***
 
-[back](G1_A1_pathway2.html)
+[close menu](G1_A1_pathway2.html)
 
 
