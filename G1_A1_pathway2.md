@@ -9,7 +9,7 @@ permalink: /G1_A1_pathway2.html
 
 #### Muzio Clementi (1752 - 1832)
 
-[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/menu.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
+[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/menu.png)](me.html)
 [About](G1_A1_about.html)
 [Challenges](G1_A1_challenges.html)
 [Musicians](G1_A1_exam.html)
