@@ -4,13 +4,13 @@ layout: page
 permalink: /me.html
 
 ---
-###Pick your capture tool
+[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/avatar.png)](completed_challenges.html)
 
 
-##[Photo](post_photo.html)
-##[Audio](post_audio.html)
-##[Video](post_video.html)
-##[Library](post_library.html)
+
+##[To-Do's](post_photo.html)
+##[Other people](post_video.html)
+##[Explore](post_library.html)
 
 
 ***
