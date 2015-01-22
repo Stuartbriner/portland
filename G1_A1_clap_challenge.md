@@ -14,7 +14,7 @@ permalink: /G1_A1_clap_challenge.html
 
 ***
 
-*Feeling the pulse in the music is important. Here are a few challenges help you keep a steady pulse when playing Arietta.*
+*Feeling the pulse in the music is important. Here are a few challenges to help you keep a steady pulse when playing Arietta.*
 
 ***
 
