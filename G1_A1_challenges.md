@@ -18,14 +18,13 @@ permalink: /G1_A1_challenges.html
 
 | Challenges | 
 | ------------ | 
-| [Clap along](G1_A1_clap_challenge.html)       |
-| Sing the music - make up words      |
-| Left hand - spot the G's	       |
-| The end - the final cadence|
+| [Keep the beat](G1_A1_clap_challenge.html)       |
+| Make a song      |
+| Feature finder	       |
 |[Improvise](G1_A1_improv_challenge.html)|
-|Warm ups - Practice technical requirements for C at dynamics of the piece|
-|Memorise|
-|Find out 3 interesting facts about Clementi - trivia|
+|Train your brain|
+|Memorize this|
+|Trivia trove |
 
 
 ***
