@@ -4,9 +4,9 @@ layout: page
 permalink: /me.html
 
 ---
-[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/avatar.png)](completed_challenges.html)
+[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/avatar.png)](completed_challenges.html) 
 
-
+##Jane Doe
 
 ##[To-Do's](post_photo.html)
 ##[Other people](post_video.html)
