@@ -24,4 +24,4 @@ A video - maybe dance style
 
 *There are exercises on pulse and metre in ABRSM Aural trainer. Go and try Grade 1 Pulse and metre*
 
-[GET Aural Trainer](https://itunes.apple.com/gb/app/abrsm-aural-trainer-grades-1-5/id491907493?mt=8)
+[![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/ATsmalllogo.png)](https://itunes.apple.com/gb/app/abrsm-aural-trainer-grades-1-5/id491907493?mt=8)
