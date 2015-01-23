@@ -11,10 +11,9 @@ permalink: /me.html
   
  First Header | Second Header | Third Header
 :----------- | :-----------: | -----------:
-Left         | <iframe width="200" height="315" src="//www.youtube.com/embed/n14n2ukstSQ?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>       | Right
-Left         |<iframe width="200" height="315" src="//www.youtube.com/embed/eB4PenlkCxQ?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>      | Right
-Left         |![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/comic.jpg)     | Right
-
+![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)       | <iframe width="200" height="315" src="//www.youtube.com/embed/n14n2ukstSQ?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>       | ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)       |<iframe width="200" height="315" src="//www.youtube.com/embed/eB4PenlkCxQ?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>      | ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)        |![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/comic.jpg)     | ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
  
 
 
