@@ -1,5 +1,5 @@
 ---
-title: Arietta - Clap along
+title: Arietta - Keep the beat
 layout: page
 permalink: /G1_A1_clap_challenge.html
 
