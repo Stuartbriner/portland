@@ -8,7 +8,7 @@ permalink: /menu.html
 *** 
 ##[Messages](messages.html)
 ##[To-Do's](post_photo.html)
-##[Other people](post_video.html)
+##[Other people](others.html)
 ##[Explore](post_library.html)
 
 
