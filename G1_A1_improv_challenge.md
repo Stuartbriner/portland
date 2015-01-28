@@ -30,10 +30,7 @@ permalink: /G1_A1_improv_challenge.html
 
 
 
-***
-[To-do](todo)
-[Post](post)
-***
+I
 
 
 
