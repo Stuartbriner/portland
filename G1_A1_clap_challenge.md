@@ -18,7 +18,11 @@ permalink: /G1_A1_clap_challenge.html
 
 ***
 
-A video - maybe dance style
+<iframe width="560" height="315" src="//www.youtube.com/embed/jlVzJmxg3c8?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+***
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/u4vZS7M8YiE?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ***
 
