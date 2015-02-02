@@ -32,7 +32,7 @@ permalink: /me.html
 <svg id="circle" height="60" width="60" 
      xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
   <g transform="scale(0.1)">
-    <image x="0" y="0" height="600" width="600" xlink:href="huge-red-circle.svg" />
+    <image x="0" y="0" height="600" width="600" xlink:href="https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/Lovetfallerimage.svg" />
   </g>
 </svg>
 </body>
