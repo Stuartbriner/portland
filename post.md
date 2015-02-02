@@ -19,6 +19,9 @@ permalink: /post.html
 
 <input type="file" accept="video/*;capture=camcorder">
 
+<video id="video" width="640" height="480" autoplay></video>
+<button id="snap">Snap Photo</button>
+<canvas id="canvas" width="640" height="480"></canvas>
 ***
 
 [back](G1_A1_pathway2.html)
