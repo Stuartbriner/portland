@@ -12,8 +12,18 @@ permalink: /me.html
   
  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
 
-<iframe width="600" height="430" src="//www.cincopa.com/media-platform/iframe.aspx?fid=AIPA_SMBGyaO" frameborder="0" allowfullscreen scrolling="no"></iframe>
- 
+
+<img src="http://respimg.cdnconnect.com/on-a-grid/yacht_race@fallback.jpg"
+srcset="
+yacht_race@mobile.jpg 320w,
+yacht_race@wide-mobile.jpg 480w,
+yacht_race@tablet.jpg 768w,
+yacht_race@desktop.jpg 1024w,
+yacht_race@hires.jpg 1280w"
+sizes="90vw"
+alt="A very exciting yacht race.">
+
+
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/n14n2ukstSQ' frameborder='0' allowfullscreen></iframe></div>
 
