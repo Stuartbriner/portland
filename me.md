@@ -13,15 +13,6 @@ permalink: /me.html
  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
 
 
-<img src="http://respimg.cdnconnect.com/on-a-grid/yacht_race@fallback.jpg"
-srcset="
-yacht_race@mobile.jpg 320w,
-yacht_race@wide-mobile.jpg 480w,
-yacht_race@tablet.jpg 768w,
-yacht_race@desktop.jpg 1024w,
-yacht_race@hires.jpg 1280w"
-sizes="90vw"
-alt="A very exciting yacht race.">
 
 
 
