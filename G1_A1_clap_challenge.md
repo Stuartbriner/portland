@@ -12,8 +12,6 @@ permalink: /G1_A1_clap_challenge.html
 
 [back](G1_A1_pathway2)
 
-<iframe src='https://www.dropbox.com/sc/i9ebu2on7cs6nuz/AABjIxr3LE7q5HYZs4lB_9dWa?raw=1' style='border:0'></iframe>
-
 
 ***
 
