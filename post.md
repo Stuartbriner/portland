@@ -20,7 +20,7 @@ permalink: /post.html
 <input type="file" accept="video/*;capture=camcorder">
 
 <video autoplay id="vid" style="display:none;"></video>
-<canvas id="canvas" width="1280" height="720" style="border:1px solid #d3d3d3;"></canvas><br>
+<canvas id="canvas" width="400" height="400" style="border:1px solid #d3d3d3;"></canvas><br>
 <button onclick="snapshot()">Take Picture</button>
 
 <script type="text/javascript">
