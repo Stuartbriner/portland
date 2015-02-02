@@ -15,7 +15,9 @@ permalink: /post.html
 
 <input type="file" accept="image/*" capture="camera">
 
-<input type="file" accept="microhone/*" capture="microphone">
+<input type="file" accept="audio/*;capture=microphone">
+
+<input type="file" accept="video/*;capture=camcorder">
 
 ***
 
