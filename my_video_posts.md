@@ -4,16 +4,7 @@ layout: page
 permalink: /my_videos.html
 
 ---
-<form action='/some_url'>
-  <camera id='MyRecorder1' data-uuid='[YOUR_CAMERA_UUID]'></camera>
-</form>
-
-<form action='/some_url'>
-  <input type='hidden' name='MyCamera[video_uuid]' value='[VIDEO_UUID]'/>
-  <input type='hidden' name='MyCamera[360p][mp4]' value='http://url.to.your/mp4_video' />
-  <input type='hidden' name='MyCamera[360p][thumb]' value='http://url.to.your/thumb' />
-  <input type='hidden' name='MyCamera[720p][small_thumb]' value='http://url.to.your/small_thumb' />
-</form>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 400; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://cameratag.com/apps/a-a0a6c3f0-8d20-0132-1161-22000a8c0328/videos/' style='border:0'></iframe></div>
 
 ***
 
