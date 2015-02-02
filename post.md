@@ -8,10 +8,10 @@ permalink: /post.html
 
 ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png) | Pick your capture tool| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
 :-----------: | :-----------: | :-----------:  
- ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/photo.png)](me.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
- ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/audio.png)](me.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
-  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/video.png)](me.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
-   ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/library.png)](me.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+ ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/photo.png)](post_photo.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+ ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/audio.png)](post_audio.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/video.png)](post_video.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+   ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/library.png)](post_library.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
 
 
 ##[Photo](post_photo.html)
