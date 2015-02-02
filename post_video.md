@@ -9,8 +9,7 @@ permalink: /post_video.html
 <script src='//cameratag.com/api/v5/js/cameratag.js' type='text/javascript'></script>
 </head>
 
-
-<camera id='musiccase' data-app-id='cc482b40-f5df-0130-9146-22000aecc0e6'></camera>
+<camera id='testcamera' data-app-id='cc482b40-f5df-0130-9146-22000aecc0e6'></camera>
 
 ***
 
