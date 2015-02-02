@@ -10,8 +10,6 @@ permalink: /me.html
  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/avatar.png)](me.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
 
   
- ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
-
 
 
 
