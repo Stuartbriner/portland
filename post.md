@@ -4,7 +4,7 @@ layout: page
 permalink: /post.html
 
 ---
-###Pick your capture tool
+
 
 ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png) | Pick your capture tool| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
 :-----------: | :-----------: | :-----------:  
@@ -14,10 +14,6 @@ permalink: /post.html
    ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/library.png)](post_library.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
 
 
-##[Photo](post_photo.html)
-##[Audio](post_audio.html)
-##[Video](post_video.html)
-##[Library](post_library.html)
 
 
 ***
