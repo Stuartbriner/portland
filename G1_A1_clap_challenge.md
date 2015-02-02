@@ -12,6 +12,9 @@ permalink: /G1_A1_clap_challenge.html
 
 [back](G1_A1_pathway2)
 
+<iframe src='https://www.dropbox.com/sc/i9ebu2on7cs6nuz/AABjIxr3LE7q5HYZs4lB_9dWa?raw=1' style='border:0'></iframe>
+
+
 ***
 
 *Feeling the pulse in the music is important. Here are a few challenges to help you keep a steady pulse when playing Arietta.*
@@ -29,6 +32,8 @@ permalink: /G1_A1_clap_challenge.html
 *There are exercises on pulse and metre in ABRSM Aural trainer. Go and try Grade 1 Pulse and metre*
 
 [![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/NEW AT 1-5.png)](https://itunes.apple.com/gb/app/abrsm-aural-trainer-grades-1-5/id491907493?mt=8)
+
+
 
 ***
 [To-do](todo)
