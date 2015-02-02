@@ -12,12 +12,6 @@ permalink: /post_video.html
 
 <camera id='musiccase' data-app-id='cc482b40-f5df-0130-9146-22000aecc0e6'></camera>
 
-<input type="file" accept="video/*;capture=camcorder">
-
-<camera id='DemoCamera' data-app-id='63f9c870-72c4-0130-04c5-123139045d73'></camera>
-
-
-
 ***
 
 [back](G1_A1_pathway2.html)
