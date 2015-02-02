@@ -6,6 +6,12 @@ permalink: /post.html
 ---
 ###Pick your capture tool
 
+![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png) | [![Giant's coming group](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/photo.png)](G1_C1.html) | ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+:-----------: | :-----------: | :-----------:  
+ ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/audio.png)](me.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+  ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/video.png)](me.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+   ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)|[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/library.png)](me.html)| ![pixel](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/apixel.png)
+
 
 ##[Photo](post_photo.html)
 ##[Audio](post_audio.html)
