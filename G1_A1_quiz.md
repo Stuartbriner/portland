@@ -10,96 +10,31 @@ permalink: /G1_A1_quiz.html
 
 #### Muzio Clementi (1752 - 1832)
 
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/quiz-1.js"></script>
+
+<p class="question">1. What is the answer to this question?</p>
+<ul class="answers">
+<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">Answer 1</label><br/>
+<input type="radio" name="q1" value="b" id="q1b"><label for="q1b">Answer 2</label><br/>
+<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">Answer 3</label><br/>
+<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">Answer 4</label><br/>
+</ul>
+
+
+<div id="results">
+Show me the answers!
+</div>
+<div id="category1">
+<p><strong>Question 1:</strong> The correct answer is the <strong>Answer 1</strong>.</p>
+</div>
+
+
+
+
 [back](G1_A1_pathway2)
 
 ***
-<head>
-<!-- begin quiz script -->
-<script>
-function finish() {
-	var ext = '.html';
-	var results = new Array("none","CORRECT","TRY AGAIN");
-	var nums = new Array(3);
-	for(var i = 0; i < nums.length; i++) nums[i] = 0;
-	for(var i = 1; i <= 3; i++) {
-		var q = document.forms['quiz'].elements['question_'+i];
-		if(q[0].type=='checkbox') {
-			var n = 0;
-		}
-		for(var j = 0; j < q.length; j++) {
-			if(q[j].checked) {
-				var a = q[j].value.split(',');
-				for(var k = 0; k < a.length; k++) {
-					nums[a[k]]++;
-				}
-				if(q[j].type=='radio') break;
-				else n++;
-			}
-			if(j == q.length-1&&q[j].type=='radio') {nums[0]++;}
-		}
-		if(q[0].type=='checkbox'&&((document.forms['quiz'].elements['question_'+i+'_min']&&n<document.forms['quiz'].elements['question_'+i+'_min'].value)||(document.forms['quiz'].elements['question_'+i+'_max']&&n>document.forms['quiz'].elements['question_'+i+'_max'].value))) nums[0]++;
-	}
-	var j = new Array('0');
-	for (i in nums) if(nums[i]>nums[j[0]]){j=new Array(''+i);} else if(nums[i]==nums[j[0]])j[j.length] = i;
-	//var o = '';for(var i in results)o+=results[i]+'='+nums[i]+'\n';
-	//alert(o);
-	if(nums[0]!=0) {
-		alert('You missed or incorrectly answered '+nums[0]+' questions!');
-	}
-	else if(j[0]==0) {
-		alert('No result could be determined.');
-	}
-	else {
-		location = results[j[0]]+ext;
-	}
-}
-</script>
-<!-- end quiz script -->   
-</head>
-
-<body>
-<!-- begin quiz script -->
-<script>
-function finish() {
-	var ext = '.html';
-	var results = new Array("none","CORRECT","TRY AGAIN");
-	var nums = new Array(3);
-	for(var i = 0; i < nums.length; i++) nums[i] = 0;
-	for(var i = 1; i <= 3; i++) {
-		var q = document.forms['quiz'].elements['question_'+i];
-		if(q[0].type=='checkbox') {
-			var n = 0;
-		}
-		for(var j = 0; j < q.length; j++) {
-			if(q[j].checked) {
-				var a = q[j].value.split(',');
-				for(var k = 0; k < a.length; k++) {
-					nums[a[k]]++;
-				}
-				if(q[j].type=='radio') break;
-				else n++;
-			}
-			if(j == q.length-1&&q[j].type=='radio') {nums[0]++;}
-		}
-		if(q[0].type=='checkbox'&&((document.forms['quiz'].elements['question_'+i+'_min']&&n<document.forms['quiz'].elements['question_'+i+'_min'].value)||(document.forms['quiz'].elements['question_'+i+'_max']&&n>document.forms['quiz'].elements['question_'+i+'_max'].value))) nums[0]++;
-	}
-	var j = new Array('0');
-	for (i in nums) if(nums[i]>nums[j[0]]){j=new Array(''+i);} else if(nums[i]==nums[j[0]])j[j.length] = i;
-	//var o = '';for(var i in results)o+=results[i]+'='+nums[i]+'\n';
-	//alert(o);
-	if(nums[0]!=0) {
-		alert('You missed or incorrectly answered '+nums[0]+' questions!');
-	}
-	else if(j[0]==0) {
-		alert('No result could be determined.');
-	}
-	else {
-		location = results[j[0]]+ext;
-	}
-}
-</script>
-<!-- end quiz script -->         
-</body>        
 ***
 [To-do](todo)
 [Post](post)
