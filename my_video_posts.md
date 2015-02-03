@@ -9,8 +9,8 @@ permalink: /my_videos.html
 <script src='//cameratag.com/api/v5/js/cameratag.js' type='text/javascript'></script>
 </head>
 
-<input type="hidden" name="musiccase[video_uuid]" value="[VIDEO_UUID]"/>
-<video id='MyPlayer1' data-uuid='[YOUR_VIDEO_UUID]'></video>
+
+<video id='MyPlayer1' data-uuid='[a-a0a6c3f0-8d20-0132-1161-22000a8c0328]'></video>
 
 
 
