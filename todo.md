@@ -16,7 +16,7 @@ permalink: /todo.html
 *Here are the challenges you have saved for later!*
 
 ***
-######Use *Arietta* as the basis of your own piece of improvised music.
+######[Use *Arietta* as the basis of your own piece of improvised music.](G1_A1_improv_challenge)
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/BaQA3hczRXc' frameborder='0' allowfullscreen></iframe></div>
 
 ***
