@@ -6,11 +6,10 @@ permalink: /todo.html
 ---
 
 
-#### Lesson Five from Op.42
+#### To-do's
 
-#### Muzio Clementi (1752 - 1832)
 
-[back](G1_A1_pathway2)
+[back](me)
 
 ***
 
