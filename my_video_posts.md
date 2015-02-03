@@ -10,7 +10,7 @@ permalink: /my_videos.html
 </head>
 
 
-<video id='MyPlayer1' data-uuid='[a-a0a6c3f0-8d20-0132-1161-22000a8c0328]'></video>
+<video id='MyPlayer1' data-uuid='[v-6ba4374c-ebef-444b-abfe-6fd445e16a8e]'></video>
 
 
 
