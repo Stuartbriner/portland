@@ -10,7 +10,7 @@ permalink: /G1_A1_quiz.html
 
 #### Muzio Clementi (1752 - 1832)
 
-<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/jquery.js"></script>
 <script type="text/javascript" src="https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/quiz-1.js"></script>
 
 <p class="question">1. What is the answer to this question?</p>
