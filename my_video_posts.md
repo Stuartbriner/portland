@@ -10,7 +10,9 @@ permalink: /my_videos.html
 </head>
 
 
-<video id='MyPlayer1' data-uuid='[a-a0a6c3f0-8d20-0132-1161-22000a8c0328]'></video>
+<input type="hidden" name="MyCamera[video_uuid]" value="[VIDEO_UUID]"/>
+
+<video id='MyPlayer1' data-uuid='[YOUR_VIDEO_UUID]'></video>
 
 
 

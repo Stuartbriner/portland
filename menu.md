@@ -7,9 +7,9 @@ permalink: /menu.html
 [![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/avatar.png)](me.html) Jane Doe
 *** 
 ##[Messages](messages.html)
-##[To-Do's](post_photo.html)
+##[To-Do's](todo.html)
 ##[Other people](others.html)
-##[Explore](post_library.html)
+##[Explore](explore.html)
 
 
 ***
