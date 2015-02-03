@@ -13,18 +13,19 @@ permalink: /G1_A1_quiz.html
 <script type="text/javascript" src="https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/jquery.js"></script>
 <script type="text/javascript" src="https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/quiz-1.js"></script>
 
-<p class="question">1. What is the answer to this question?</p>
+<p class="question">1. What key is Arietta in?</p>
 <ul class="answers">
-<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">Answer 1</label><br/>
-<input type="radio" name="q1" value="b" id="q1b"><label for="q1b">Answer 2</label><br/>
-<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">Answer 3</label><br/>
-<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">Answer 4</label><br/>
+<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">A minor</label><br/>
+<input type="radio" name="q1" value="b" id="q1b"><label for="q1b">G major</label><br/>
+<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">C major</label><br/>
+<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">D minor</label><br/>
 </ul>
-
 
 <div id="results">
 Show me the answers!
 </div>
+
+
 <div id="category1">
 <p><strong>Question 1:</strong> The correct answer is the <strong>Answer 1</strong>.</p>
 </div>

@@ -26,7 +26,7 @@ permalink: /G1_A1_challenges.html
 |Memorize this|
 |Record a podcast|
 |Trivia trove |
-|Quiz|
+|[Quiz](G1_A1_quiz)|
 
 
 ***
