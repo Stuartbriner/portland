@@ -1,7 +1,7 @@
 ---
-title: Arietta - Improvise
+title: Arietta - Quiz
 layout: page
-permalink: /G1_A1_improv_challenge.html
+permalink: /G1_A1_quiz.html
 
 ---
 
