@@ -19,13 +19,14 @@ permalink: /G1_A1_challenges.html
 | Challenges | 
 | ------------ | 
 | [Keep the beat](G1_A1_clap_challenge.html)       |
-| Make a song      |
+| Make up a song      |
 | Feature finder	       |
-|[Improvise](G1_A1_improv_challenge.html)|
+|[Create your own music](G1_A1_improv_challenge.html)|
 |Train your brain|
 |Memorize this|
 |Record a podcast|
 |Trivia trove |
+|Quiz|
 
 
 ***
