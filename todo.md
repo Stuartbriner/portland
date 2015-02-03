@@ -1,5 +1,5 @@
 ---
-title: Arietta - ToDo
+title: ToDo
 layout: page
 permalink: /todo.html
 
