@@ -27,13 +27,9 @@ permalink: /G1_A1_quiz.html
 </div>
 </button>
 
-<div id="results">
-Show me the answers!
-</div>
-
 
 <div id="category1">
-<p><strong>Question 1:</strong> The correct answer is the <strong>Answer 1</strong>.</p>
+<p><strong>Question 1:</strong> The correct answer is the <strong>C major</strong>.</p>
 </div>
 
 
