@@ -17,7 +17,7 @@ permalink: /audio player.html
 Your browser does not support the audio element.
 </audio>
 
-<iframe width="640" height="298" src="http://www.noteflight.com/embed/e912ec96fd41be24d70b799fdb2b3182ee98b236?scale=1"></iframe>
+<iframe width="640" height="298" src="http://www.noteflight.com/embed/e912ec96fd41be24d70b799fdb2b3182ee98b236?scale=1&role=template"></iframe>
 
 
 </body>
