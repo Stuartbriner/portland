@@ -21,8 +21,4 @@ Your browser does not support the audio element.
 </html>
 
 
-<audio id="background_audio" autoplay="autoplay">
-  <source src="http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a" />
-</audio> 
 
-<a href="#noscroll" id="mute">toggle sound</a>
