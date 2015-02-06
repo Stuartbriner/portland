@@ -1,3 +1,12 @@
+---
+title: Arietta - audio player
+layout: page
+permalink: /audio player.html
+
+---
+
+
+
 <!DOCTYPE html>
 <html>
 <body>
