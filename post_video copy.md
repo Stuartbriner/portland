@@ -18,7 +18,7 @@ permalink: /post_video_copy.html
     <param name="allowscriptaccess" value="always">
     <param name="wmode" value="transparent">
     <param name="flashvars"
-           value="videoServer=undefined&amp;videoUUID=undefined&amp;cameraUUID=undefined&amp;domID=myCamId&amp;maxLength=30&amp;hResolution=300&amp;vResolution=200&amp;fps=24&amp;videoBitRate=undefined&amp;skipAutoDetect=false&amp;flipRecordPreview=true">
+           value="videoServer=undefined&amp;videoUUID=undefined&amp;cameraUUID=a-a0a6c3f0-8d20-0132-1161-22000a8c0328;domID=myCamId&amp;maxLength=30&amp;hResolution=300&amp;vResolution=200&amp;fps=24&amp;videoBitRate=undefined&amp;skipAutoDetect=false&amp;flipRecordPreview=true">
 </object>
 <div id="myCamId_start_screen" style="font-size: 14px; position: absolute; display: none;"
      class="cameratag_screen cameratag_start"><a class="cameratag_select_prompt">choose a method below to submit
