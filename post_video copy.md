@@ -1,7 +1,7 @@
 ---
-title: Post a video
+title: Post a video copy
 layout: page
-permalink: /post_video.html
+permalink: /post_video_copy.html
 
 ---
 <head>
