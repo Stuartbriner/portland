@@ -1,7 +1,7 @@
 ---
-title: Menu
+title: Practice
 layout: page
-permalink: /menu.html
+permalink: /practicetracker.html
 
 ---
 [![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/avatar.png)](me.html) Jane Doe
