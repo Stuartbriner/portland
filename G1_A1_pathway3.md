@@ -27,7 +27,7 @@ permalink: /G1_A1_pathway3.html
 
 
 
-<button type="button" onclick="location.href('http://www.google.com')">Pitch</button>
+<button type="button" onclick="window.location.href='G1_A1_about.html'">Pitch</button>
  
 <input type="button" onclick="location.href('http://www.google.com');" value="Redirect">
 
