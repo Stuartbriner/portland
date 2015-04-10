@@ -30,3 +30,7 @@ permalink: /G1_A1_pathway3.html
 [![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
 
 <a href="#" class="button info" style="width: 100%">Pitch</a>
+<a href="#" class="button info" style="width: 100%">Time</a>
+<a href="#" class="button info" style="width: 100%">Tone</a>
+<a href="#" class="button info" style="width: 100%">Shape</a>
+<a href="#" class="button info" style="width: 100%">Performance</a>
