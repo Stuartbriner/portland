@@ -17,15 +17,12 @@ permalink: /G1_A1_challenges3.html
 
 
 | *Complete 3 of the following challenges by posting your work to join the Arietta group.* | 
-| ------------ | 
+| :------------: | 
 | [Keep the beat](G1_A1_clap_challenge.html)       |
 | Make up a song      |
-| Feature finder	       |
 |[Create your own music](G1_A1_improv_challenge.html)|
-|Train your brain|
 |Memorize this|
 |Record a podcast|
-|Trivia trove |
 |[Quiz](G1_A1_quiz)|
 
 
