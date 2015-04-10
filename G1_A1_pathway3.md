@@ -21,10 +21,10 @@ permalink: /G1_A1_pathway3.html
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/186949914%3Fsecret_token%3Ds-dzFHo&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 <a href="G1_A1_about.html" class="button info" style="width: 95%">Pitch</a>
-<a href="#" class="button "info style="width: 95%""">Time</a>
-<a href="#" class="button infostyle="width: 95%"" >Tone</a>
-<a href="#" class="button infostyle="width: 95%""" >Shape</a>
-<a href="#" class="button infstyle="width: 95%o" >Performance</a>
+<a href="#" class="button info" style="width: 95%">Time</a>
+<a href="#" class="button info" style="width: 95%" >Tone</a>
+<a href="#" class="button info" style="width: 95%" >Shape</a>
+<a href="#" class="button info" style="width: 95%o" >Performance</a>
 
 
 [![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
