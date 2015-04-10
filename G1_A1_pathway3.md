@@ -28,12 +28,8 @@ permalink: /G1_A1_pathway3.html
 
 
 <button type="button" onclick="window.location.href='G1_A1_about.html'">Pitch</button>
- 
-<input type="button" onclick="location.href('http://www.google.com');" value="Redirect">
 
-<FORM>
-<INPUT Type="BUTTON" VALUE="Home Page" ONCLICK="window.location.href='G1_A1_about.html'"> 
-</FORM>
+<button type="button" onclick="window.location.href='G1_A1_about.html'">Time</button>
 
 [![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
 
