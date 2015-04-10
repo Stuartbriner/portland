@@ -25,11 +25,14 @@ permalink: /G1_A1_pathway3.html
 <html>
 <body style="background-color:white">
 
+<button type="button" onclick="window.location.href='G1_A1_about.html'">Pitch</button>  | <button type="button" onclick="window.location.href='G1_A1_about.html'">Time</button>  | <button type="button" onclick="window.location.href='G1_A1_about.html'">Tone</button>   |<button type="button" onclick="window.location.href='G1_A1_about.html'">Shape</button>  | <button type="button" onclick="window.location.href='G1_A1_about.html'">Performance</button>  | 
+:-----------: | :-----------: | :-----------:|:-----------: | :-----------: | 
+Left         | Center        | Right
 
 
-<button type="button" onclick="window.location.href='G1_A1_about.html'">Pitch</button>
+<button type="button" onclick="window.location.href='G1_A1_about.html'">Pitch</button> 
 
-<button type="button" onclick="window.location.href='G1_A1_about.html'">Time</button>
+<button type="button" onclick="window.location.href='G1_A1_about.html'">Time</button> 
 
 [![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
 
