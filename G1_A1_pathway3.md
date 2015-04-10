@@ -24,7 +24,7 @@ permalink: /G1_A1_pathway3.html
 <a href="#" class="button info" style="width: 95%">Time</a>
 <a href="#" class="button info" style="width: 95%" >Tone</a>
 <a href="#" class="button info" style="width: 95%" >Shape</a>
-<a href="#" class="button info" style="width: 95%o" >Performance</a>
+<a href="#" class="button info" style="width: 95%" >Performance</a>
 
 
 [![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
