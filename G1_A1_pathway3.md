@@ -29,4 +29,4 @@ permalink: /G1_A1_pathway3.html
 
 [![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
 
-<a href="#" class="button">Default Button</a>
+<a href="#" class="button" style="width: 100%">Default Button</a>
