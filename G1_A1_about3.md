@@ -41,7 +41,7 @@ His most important compositions are his keyboardworks, which include about 70 s
 ***
 
 
-<a href="G1_A1_challenges.html" class="button info" style="width: 95%" >Challenges</a>
+<a href="G1_A1_challenges3.html" class="button info" style="width: 95%" >Challenges</a>
 <a href="G1_A1_pitch.html" class="button info" style="width: 95%">Pitch</a>
 <a href="G1_A1_time.html" class="button info" style="width: 95%">Time</a>
 <a href="G1_A1_tone.html" class="button info" style="width: 95%" >Tone</a>
