@@ -1,5 +1,5 @@
 ---
-title: Arietta
+title: <p><font size="3" color="red">Arietta</font></p>
 layout: page
 permalink: /G1_A1_pathway3.html
 
