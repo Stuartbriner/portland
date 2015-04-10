@@ -15,9 +15,8 @@ permalink: /G1_A1_challenges3.html
 
 ***
 
-*Complete 3 of the following challenges by posting your work to join the Arietta group.*
 
-| Challenges | 
+| *Complete 3 of the following challenges by posting your work to join the Arietta group.* | 
 | ------------ | 
 | [Keep the beat](G1_A1_clap_challenge.html)       |
 | Make up a song      |
