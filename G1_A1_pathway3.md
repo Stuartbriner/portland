@@ -21,13 +21,14 @@ permalink: /G1_A1_pathway3.html
 
 
 
-[![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
 
 <html>
 <body style="background-color:white">
 
 
 
-<button type="button" onclick="alert('Hello world!')">Pitch</button>
+<button type="button" onclick="location.href('http://www.google.com')">Pitch</button>
  
+
+[![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
 
