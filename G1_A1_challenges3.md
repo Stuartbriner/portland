@@ -13,7 +13,7 @@ permalink: /G1_A1_challenges3.html
 <a href="G1_A1_about3.html" class="button info" style="width: 95%" >About</a>
 <a href="G1_A1_pathway3.html" class="button info" style="width: 95%" >Challenges</a>
 
-***
+
 
 
 | *Complete 3 of the following challenges by posting your work to join the Arietta group.* | 
