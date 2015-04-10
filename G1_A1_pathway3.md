@@ -20,21 +20,7 @@ permalink: /G1_A1_pathway3.html
 <a href="G1_A1_performance.html" class="button info" style="width: 95%" >Performance</a>
 
 <style>
-#grad1 {
-    height: 200px;
-    background: -webkit-linear-gradient(White, black); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(White, black); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(White, black); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(White, black); /* Standard syntax (must be last) */
+body {
+    background-color: white;
 }
-</style>
-</head>
-<body>
-
-<h3>Linear Gradient - Top to Bottom</h3>
-<p>This linear gradient starts at the top. It starts red, transitioning to blue:</p>
-
-<div id="grad1"></div>
-
-<p><strong>Note:</strong> Internet Explorer 9 and earlier versions do not support gradients.</p>
 
