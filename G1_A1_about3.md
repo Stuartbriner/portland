@@ -11,7 +11,7 @@ permalink: /G1_A1_about3.html
 
 <iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/186949914%3Fsecret_token%3Ds-dzFHo&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<a href="G1_A1_about.html" class="button info" style="width: 95%" >About</a>
+<a href="G1_A1_about3.html" class="button info" style="width: 95%" >About</a>
 ***
 Muzio Clementi, an English composer of Italian birth, settled inLondon in 1774 and established a successful career as a pianistand teacher. 
 
@@ -33,14 +33,12 @@ Muzio Clementi, an English composer of Italian birth, settled inLondon in 1774 
  
 <div class="google-maps">
     <iframe src="https://www.google.com/maps/d/u/0/embed?mid=zqakVQmfjhjs.kYgxNf6eywHk" width="100%" height="300"></iframe></div>
-***
+
 
 His most important compositions are his keyboardworks, which include about 70 solo sonatas as well as sonatinasand variations. During a continental tour as a solo pianist in theearly 1780s, he stayed in Vienna for six months, taking part ina famous piano contest with Mozart. Afterwards, Mozart commentedon his ‘remarkable technique at the keyboard’. In 1798Clementi established a firm in London that not only publishedmusic but also manufactured pianos.
 
 
-
-![Smaller icon](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/1815clem.jpg "Title here") 
-
+<img src="https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/1815clem.jpg" alt="Smiley face" width="100%" height="100%">
 
 A Clementi piano made in 1815.
 ***
