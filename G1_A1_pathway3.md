@@ -17,7 +17,7 @@ permalink: /G1_A1_pathway3.html
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/186949914%3Fsecret_token%3Ds-dzFHo&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/74619224%3Fsecret_token%3Ds-s1dys&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 
 [![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
 
@@ -28,5 +28,3 @@ permalink: /G1_A1_pathway3.html
 
 </body>
 </html>
-
-https://s3-eu-west-1.amazonaws.com/abrsm.videowall.videos/551d3f0f4e89b9e95b793ba2/video.mp4
