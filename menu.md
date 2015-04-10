@@ -6,6 +6,9 @@ permalink: /menu.html
 ---
 [![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/avatar.png)](me.html) Jane Doe
 *** 
+
+# 3 weeks until your exam!
+
 ##[Messages](messages.html)
 ##[To-Do's](todo.html)
 ##[Practice](practicetracker.html)
