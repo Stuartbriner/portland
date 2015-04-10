@@ -23,9 +23,7 @@ permalink: /G1_A1_pathway3.html
 <a href="G1_A1_tone.html" class="button info" style="width: 95%" >Tone</a>
 <a href="G1_A1_shape.html" class="button info" style="width: 95%" >Shape</a>
 <a href="G1_A1_performance.html" class="button info" style="width: 95%" >Performance</a>
+<a href="G1_A1_about.html" class="button info" style="width: 95%" >About</a>
+<a href="G1_A1_challenges.html" class="button info" style="width: 95%" >Challenges</a>
 
 
-
-[![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/menu.png)](menu.html)[About](G1_A1_about.html)
-[Challenges](G1_A1_challenges.html)
-[Musicians](G1_A1_exam.html)
