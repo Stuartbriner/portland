@@ -25,7 +25,6 @@ permalink: /G1_A1_pathway3.html
 <a href="G1_A1_performance.html" class="button info" style="width: 95%" >Performance</a>
 
 
-[![PPPlogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/PPPlogo copy.png)](https://itunes.apple.com/gb/app/abrsm-piano-practice-partner/id891238739?mt=8)
 
 [![Menulogo](https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/menu.png)](menu.html)[About](G1_A1_about.html)
 [Challenges](G1_A1_challenges.html)
