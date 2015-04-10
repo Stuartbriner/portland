@@ -38,7 +38,7 @@ Muzio Clementi, an English composer of Italian birth, settled inLondon in 1774 
 His most important compositions are his keyboardworks, which include about 70 solo sonatas as well as sonatinasand variations. During a continental tour as a solo pianist in theearly 1780s, he stayed in Vienna for six months, taking part ina famous piano contest with Mozart. Afterwards, Mozart commentedon his ‘remarkable technique at the keyboard’. In 1798Clementi established a firm in London that not only publishedmusic but also manufactured pianos.
 
 
-<img src="https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/1815clem.jpg" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/Stuartbriner/portland/gh-pages/images/1815clem.jpg" width="100%">
 
 A Clementi piano made in 1815.
 ***
