@@ -1,7 +1,7 @@
 ---
-title: Piece_1_assembly	
+title: Piece1assembly
 layout: page
-permalink: /piece_1_assembly.html
+permalink: /piece1assembly.html
 
 ---
 #### Piece 1
