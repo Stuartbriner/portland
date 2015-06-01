@@ -1,5 +1,5 @@
 ---
-title: Piece1assembly
+title: Piece 1 for assembly
 layout: page
 permalink: /piece1assembly.html
 
